@@ -1,0 +1,17 @@
+# Ignore .git and .cache folders
+
+.git
+.cache
+
+# Ignore all markdown files (md)
+
+*.md
+
+# Ignore sensitive files
+
+private.key
+settings.json
+
+# Ignore irrelevant files
+
+node_modules/
